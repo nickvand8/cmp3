@@ -10,6 +10,7 @@ regions:
   footer: Bottom Menu
   socialMedia: Social Media
   title: Page Title
+  sidebar: sidebar
   navigation: Main Menu
 libraries:
   - cmp3_template/global-styling
