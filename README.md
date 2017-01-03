@@ -4,6 +4,20 @@ OLOD: Crossmedia Publishing 3
 
 Docent: Kristof Raes
 
+Projectnaam: Belgiets
+
+Nick Vanden Bossche
+
+Academiejaar: 2016-17
+
+Opleiding: Bachelor in de grafische en digitale media
+
+Afstudeerrichting: Multimediaproductie
+
+Keuzeoptie: ProDev
+
+Opleidingsinstelling: Arteveldehogeschool
+
 ---
 
 > ### Opdracht:

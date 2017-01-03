@@ -1,0 +1,14 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      includes/bootstrap.css: {}
+      css/main.css: {}
+      css/normalize.css: {}     
+  js:
+    includes/bootstrap.js: {}
+    js/main.js: {}
+  images:
+    tools.jpg: {}
+  dependencies:
+    - core/jquery

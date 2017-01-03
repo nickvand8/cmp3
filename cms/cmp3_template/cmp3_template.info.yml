@@ -1,0 +1,19 @@
+name: cmp3_template
+type: theme
+base theme: classy
+description: Dit is een theme voor de eindopdracht van cmp3. Meer info op <a href="http://gdm.gent/1617_cmp3">GDM.GENT/CMP3<a>
+# core: 8.x
+regions:
+  header: Header
+  info: Info
+  content: Main content
+  footer: Bottom Menu
+  socialMedia: Social Media
+  title: Page Title
+  navigation: Main Menu
+libraries:
+  - cmp3_template/global-styling
+version: '8.x-0.1'
+core: '8.x'
+stylesheets-remove: 
+  - core/themes/stable/css/views/views.module.css
